@@ -1,0 +1,13 @@
+[
+  {
+    "id": 2,
+    "title": "a title",
+    "description": null,
+    "unitCost": 100.0,
+    "isbn": "13-12312-1166852919",
+    "publicationDate": 1523212200000,
+    "numOfPages": 100,
+    "imageUrl": null,
+    "language": "ENGLISH"
+  }
+]

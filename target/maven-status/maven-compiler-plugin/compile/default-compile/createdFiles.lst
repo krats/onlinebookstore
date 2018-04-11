@@ -1,0 +1,8 @@
+com\krats\onlinebookstore\repository\BookRepository.class
+com\krats\onlinebookstore\model\Book.class
+com\krats\onlinebookstore\model\Language.class
+com\krats\onlinebookstore\bean\NumberGenerator.class
+com\krats\onlinebookstore\bean\TextUtil.class
+com\krats\onlinebookstore\bean\IsbnGenerator.class
+com\krats\onlinebookstore\rest\JAXRSConfiguration.class
+com\krats\onlinebookstore\rest\BookEndpoint.class
